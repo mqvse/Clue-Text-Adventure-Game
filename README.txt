@@ -40,7 +40,3 @@ If the user types incorrect character or is in the incorrect room or the room or
 There are only 10 attemps.
 If the user type a character that are not in the list of chracter, the user have to retype and the user won't lose any attemps.
 If the attemp is 0. The user will lose.
-
-***(I try to move the character to the current room but it only works in the bracket. 
-I don't have enough time to figure out why.
-The code is in adventure.c line 260 to 300)
